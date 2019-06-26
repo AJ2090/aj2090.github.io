@@ -9,5 +9,5 @@ entries:
     name: guestbook
     urls:
     - https://aj2090.github.com/gcpstack/charts/guestbook-0.1.0.tgz
-    version: 0.0.0
+    version: 1.0.0
 generated: "2019-06-26T12:30:59.595344282Z"
