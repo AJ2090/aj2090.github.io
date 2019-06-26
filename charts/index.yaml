@@ -3,11 +3,11 @@ entries:
   guestbook:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-26T12:30:59.595935364Z"
+    created: "2019-06-26T14:15:52.694862215Z"
     description: A Helm chart for Kubernetes
     digest: fd2e6ec1a362ab4c8cc0b913c7d496590f49bc09eab8ba2679164fceff2c6364
     name: guestbook
     urls:
-    - https://aj2090.github.com/gcpstack/charts/guestbook-0.1.0.tgz
-    version: 1.0.0
-generated: "2019-06-26T12:30:59.595344282Z"
+    - https://aj2090.github.io/charts/guestbook-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-06-26T14:15:52.693903127Z"
